@@ -1,5 +1,5 @@
 cron:
 - description: "Jashin-chan Dropkick!!"
-  url: /
+  url: /watch
   schedule: every 1 minutes
   target: yurine
