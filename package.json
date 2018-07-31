@@ -1,0 +1,25 @@
+{
+  "name": "yurine",
+  "version": "1.0.0",
+  "description": "simple cron application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castaneai/yurine.git"
+  },
+  "author": "castaneai <castaneai@castaneai.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/castaneai/yurine/issues"
+  },
+  "homepage": "https://github.com/castaneai/yurine#readme",
+  "dependencies": {
+    "@google-cloud/datastore": "^1.4.1",
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}

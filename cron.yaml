@@ -1,0 +1,5 @@
+cron:
+- description: "Jashin-chan Dropkick!!"
+  url: /
+  schedule: every 1 minutes
+  target: yurine
